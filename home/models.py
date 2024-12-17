@@ -4,5 +4,5 @@ from django.db import models
 class Setting():
   def __str__(self):
     return self.title
-    
+    hiii
   
